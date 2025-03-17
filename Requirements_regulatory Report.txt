@@ -1,0 +1,19 @@
+Requirements:
+
+***KPI's
+1.Total Active Customers
+2.Total Inactive Customers
+3.Total Dormant Customers
+4.Borrowing Customers count by Risk Ratings
+5.Customers count by Expired ID by Branch
+6.Total Customers Details for applied filters on the Page
+***Filters
+  1.ID Type - National ID & Passport
+  2.Borrowing Status - Yes /No
+  3.Risk Rating - 1/2/3
+  4.Residence Type - Residence /Non Residence
+  5.Customer Status - Id Expired /Active
+  6.Branch - Branch name list
+**Pages
+1 .Create Separate pages for the Retail & Corporate Segments
+
